@@ -23,7 +23,12 @@ gem install applog
 
 # Usage
 
-Available soon.
+### Logging of your applications
+
+To create a log of your applications, run:
+```
+applog
+```
 
 # Contributing
 
