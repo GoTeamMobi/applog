@@ -38,4 +38,3 @@ applog
 4. Commit the changes: ```git commit -m 'Add some feature'```
 5. Push to the branch: ```git push origin my-new-feature```
 6. Create a new Pull Request
->>>>>>> master
