@@ -6,6 +6,7 @@ require 'applog/version'
 Gem::Specification.new do |spec|
   spec.name          = "applog"
   spec.version       = Applog::VERSION
+  spec.executables      << 'applog'
   spec.authors       = ["Harrison Chen", "Michael Yoon"]
   spec.email         = ["harrisonxchen@gmail.com", "mikejuyoon@gmail.com"]
   spec.summary       = %q{"Command line tool to create a log applications on your system."}

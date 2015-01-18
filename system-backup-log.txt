@@ -1,0 +1,55 @@
+57 Applications
+
+Android Studio
+App Store
+Arduino
+Automator
+BetterSnapTool
+Caffeine
+Calculator
+Calendar
+Chess
+Contacts
+Dashboard
+Dictionary
+DVD Player
+FaceTime
+Flux
+Font Book
+Game Center
+GarageBand
+Google Chrome
+G
+GoPro Studio
+iBooks
+Image Capture
+iMovie
+Inkscape
+iPhoto
+iTunes
+Keynote
+Launchpad
+Mail
+Maps
+Messages
+Microsoft Office 
+Mission Control
+Notes
+Numbers
+Pages
+Photo Booth
+Preview
+QuickTime Player
+Reminders
+Safari
+Slack
+Spotify
+Stickies
+Sublime Text 2
+System Preferences
+TextEdit
+Time Machine
+Utili
+WD Drive Utilities
+WD Security
+Xcode
